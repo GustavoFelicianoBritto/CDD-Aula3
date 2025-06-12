@@ -14,7 +14,7 @@ public class Exercicio5 {
 		
 		for(int i=1;i<=resp;i++)
 		{
-			System.out.printf("Digitea nota do aluno %d: ",i);
+			System.out.printf("Digite a nota do aluno %d: ",i);
 			notatemp=input.nextFloat();
 			
 			soma+=notatemp;
